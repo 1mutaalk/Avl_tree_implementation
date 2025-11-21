@@ -153,7 +153,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-[Muhammad Mutaal Khan]
+Muhammad Mutaal Khan
 
 ## Acknowledgments
 
@@ -164,6 +164,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Note**: This implementation is designed for educational purposes and demonstrates the fundamental concepts of self-balancing binary search trees.
 
-The balance factor of a node is calculated as:
 
 
